@@ -2,4 +2,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2880 1800">
 	<rect x="0" y="0" width="2880" height="1800" fill="black" stroke="0"/>
 	<rect x="1" y="1" width="2560" height="1600" fill="white" stroke="0"/>
+	<text x="1281" y="801" text-anchor="middle" alignment-baseline="middle" font-size="750%" fill="black">Display</text>
+	<text x="1281" y="1700" text-anchor="middle" alignment-baseline="middle" font-size="650%" fill="white">Black Border</text>
 </svg>
